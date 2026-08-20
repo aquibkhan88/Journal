@@ -234,7 +234,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vault-sync-rest:Sync vault now": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -247,6 +246,7 @@
   },
   "active": "f7a8e0a3931b15b9",
   "lastOpenFiles": [
+    "trades",
     "Trade 1.md",
     "Untitled.base",
     "Trade 2.md",

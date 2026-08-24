@@ -158,8 +158,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe2394295838fd6c",
+  "active": "7539a68e04aaaca5",
   "lastOpenFiles": [
     "1. AUDJPY.md",
     "Untitled.canvas",

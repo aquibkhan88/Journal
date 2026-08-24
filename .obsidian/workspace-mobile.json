@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Rules.md",
+                "file": "Rules/L.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules"
+              "title": "L"
             }
           }
         ],
@@ -192,9 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec92d375e3522938",
+  "active": "481c3fb87db1a849",
   "lastOpenFiles": [
-    "Rules/Rules.md",
+    "Rules/L.md",
     "Rules",
     "Week 1/1. AUDJPY.md",
     "Screenshot_2026-08-24-18-16-30-368_md.obsidian.jpg",

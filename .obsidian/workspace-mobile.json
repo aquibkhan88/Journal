@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fb62eaa579d0b92",
+        "id": "f424fae5950dcbef",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2394295838fd6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e701fc5ec7a945a9",
+            "id": "9b456db53c5d12e6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -27,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e701fc5ec7a945a9",
+  "active": "9b456db53c5d12e6",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Untitled 1.md",

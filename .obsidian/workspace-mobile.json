@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "e701fc5ec7a945a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7539a68e04aaaca5",
+  "active": "e701fc5ec7a945a9",
   "lastOpenFiles": [
-    "1. AUDJPY.md",
+    "Untitled.md",
     "Untitled.canvas",
+    "1. AUDJPY.md",
     "2026-08-24.md",
     "Untitled.base",
     "Backtest 1D Poi/Btc.md",

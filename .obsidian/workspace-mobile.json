@@ -158,8 +158,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -179,12 +179,12 @@
   },
   "active": "fe2394295838fd6c",
   "lastOpenFiles": [
+    "1. AUDJPY.md",
     "Untitled.canvas",
     "2026-08-24.md",
     "Untitled.base",
     "Backtest 1D Poi/Btc.md",
     "2. AUDJPY.md",
-    "1. AUDJPY.md",
     "Template/Trade Template.md",
     "Backtest 1D Poi",
     "trades/Trade 1.md",

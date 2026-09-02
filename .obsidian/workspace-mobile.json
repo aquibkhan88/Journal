@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Trade Template"
             }
+          },
+          {
+            "id": "bea0af5db65b9acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,16 +206,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "481c3fb87db1a849",
+  "active": "ec92d375e3522938",
   "lastOpenFiles": [
+    "All 1D Poi's",
+    "Template/Trade Template.md",
+    "Week 1.md",
+    "Week 1/1. AUDJPY.md",
     "Rules/Rules.md",
     "Week 1/2. AUDJPY.md",
-    "Week 1/1. AUDJPY.md",
     "Rules",
     "Screenshot_2026-08-24-18-16-30-368_md.obsidian.jpg",
     "Screenshot_2026-08-24-18-16-30-368_md.obsidian 2.jpg",
     "Screenshot_2026-08-24-18-16-30-368_md.obsidian 1.jpg",
-    "Template/Trade Template.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Week 3",
@@ -219,7 +235,7 @@
     "Bsbsh.canvas",
     "Week 1/Untitled.md",
     "Week 2.md",
-    "Week 1",
+    "Weekly",
     "Week 1.md",
     "Dashboard",
     "Untitled 2",

@@ -1,7 +1,8 @@
 **Trade** 1 - 
 - Pair - Cadchf
 - Poi timeframe - 1D
-- Leg - Same
+- Type - Continuation
+- Leg - 
 - Poi Size - medium
 - Confirmation timeframe - 4h, 1h
 - Conformation type - engulfing + internal, Sss, mss

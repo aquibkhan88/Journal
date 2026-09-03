@@ -185,3 +185,79 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 11 - 
+- Pair - nzdcad
+- Type - continuation
+- Leg - 
+- Poi Size - Large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 25%
+- tap 4h/1h last poi - No
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 12 - 
+- Pair - nzdcad
+- Type - continuation
+- Leg -
+- Poi Size - large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, sss, Mss, choch
+- Poi penetration - 95%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 13 - 
+- Pair - nzdcad
+- Type - continuation
+- Leg - 
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - mss me bad wick thi
+- If bos - 
+
+
+
+**Trade** 14- 
+- Pair - 
+- Type - 
+- Leg - Same/different
+- Poi Size - 
+- Confirmation timeframe - 
+- Conformation type - 
+- Poi penetration - 
+- tap 4h/1h last poi - 
+- Fail or work - 
+- Execute - 
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

@@ -246,18 +246,18 @@
 
 
 **Trade** 14- 
-- Pair - 
-- Type - 
-- Leg - Same/different
-- Poi Size - 
-- Confirmation timeframe - 
-- Conformation type - 
-- Poi penetration - 
-- tap 4h/1h last poi - 
-- Fail or work - 
-- Execute - 
-- Explanation -
-- If engulfing - 
+- Pair - Eurgbp
+- Type - continuation
+- Leg - 
+- Poi Size - Large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss, sss, choch
+- Poi penetration - 95%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - yes
+- Explanation - jab market uppar chale gayi thi to sl shift kar ke uppar kar diya tha fir sl lag gaya
+- If engulfing - puri engulfing nahi thi zara se bach gaya tha engulfing karna
 - If choch - 
 - If Mss - 
 - If bos - 

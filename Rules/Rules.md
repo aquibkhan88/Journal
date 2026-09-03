@@ -1,0 +1,1 @@
+1. Continuation ho ya reversal, mss, choch, sss, tino me body closing chahiye, wick closing zadatar fail ho rahe hai

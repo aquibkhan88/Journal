@@ -33,3 +33,22 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 3 - 
+- Pair - Dxy
+- Type - continuation
+- Leg - Same
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - Sss, mss
+- Poi penetration - 
+- tap 4h/1h last poi - 
+- Fail or work - 
+- Execute - 
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - internal candle mss, usme bhi wick thi b
+- If bos - 

@@ -39,7 +39,7 @@
 **Trade** 3 - 
 - Pair - Dxy
 - Type - continuation
-- Leg - Same
+- Leg - 
 - Poi Size - Medium
 - Confirmation timeframe - 1h
 - Conformation type - Sss, mss
@@ -59,7 +59,7 @@
 **Trade** 4 - 
 - Pair - Dxy
 - Type - confirmation
-- Leg - Same
+- Leg - 
 - Poi Size - medium
 - Confirmation timeframe - 4h, 1h
 - Conformation type - Engulfing, mss, sss
@@ -78,7 +78,7 @@
 **Trade** 5 - 
 - Pair - gbpusd
 - Type - continuation
-- Leg - Same
+- Leg - 
 - Poi Size - medium
 - Confirmation timeframe - 4h
 - Conformation type - engulfing
@@ -97,7 +97,7 @@
 **Trade** 6- 
 - Pair - eurusd
 - Type - continuation
-- Leg - Same
+- Leg - 
 - Poi Size - Medium
 - Confirmation timeframe - 4h, 1h
 - Conformation type - engulfing, mss
@@ -116,7 +116,7 @@
 **Trade** 7 - 
 - Pair - audusd
 - Type - continuation
-- Leg - Same
+- Leg - 
 - Poi Size - medium
 - Confirmation timeframe - 4h, 1h
 - Conformation type - Engulfing, mss, choch
@@ -151,17 +151,36 @@
 
 
 **Trade** 9 - 
-- Pair - Eurchf
-- Type - Continuation
+- Pair - ger40
+- Type - reversal
 - Leg - same
 - Poi Size - Large
 - Confirmation timeframe - 4h
 - Conformation type - engulfing
-- Poi penetration - 40%
-- tap 4h/1h last poi - no
+- Poi penetration - 50%
+- tap 4h/1h last poi - yes
 - Fail or work - fail
-- Execute - yes
+- Execute - no
 - Explanation -
+- If engulfing - poi me bas wick thi body nahi thi
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 10 - 
+- Pair - ger40
+- Type - reversal
+- Leg - Same
+- Poi Size - large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - internal+engulfing, mss, Sss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - no
+- Explanation - bos me top sweep kiya tha
 - If engulfing - 
 - If choch - 
 - If Mss - 

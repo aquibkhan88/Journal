@@ -119,13 +119,50 @@
 - Leg - Same
 - Poi Size - medium
 - Confirmation timeframe - 4h, 1h
-- Conformation type - Engulfing, mss, cho
+- Conformation type - Engulfing, mss, choch
 - Poi penetration - 40%
 - tap 4h/1h last poi - no
 - Fail or work - work
 - Execute - no
 - Explanation -
 - If engulfing - engulfing hai par proper engulfing nahi hai
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 8 - 
+- Pair - audjpy
+- Type - reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, Mss, choch, sss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - yes
+- Explanation - monthly me top ki liquidity bhi liya tha
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+**Trade** 9 - 
+- Pair - Eurchf
+- Type - Continuation
+- Leg - same
+- Poi Size - Large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 40%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - yes
+- Explanation -
+- If engulfing - 
 - If choch - 
 - If Mss - 
 - If bos - 

@@ -317,3 +317,24 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+- 
+
+
+
+**Trade** 18- 
+- Pair - btcusd
+- Type - reversal
+- Leg - Same
+- Poi Size - Large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss, sss
+- Poi penetration - 30%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - Wick closing thi body nahi thi
+- If bos - 
+- if sss - wick closing thi body nahi thi

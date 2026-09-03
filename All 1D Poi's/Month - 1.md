@@ -287,12 +287,31 @@
 - Type - continuation
 - Leg -
 - Poi Size - Large
-- Confirmation timeframe - 4h
-- Conformation type - engulfing
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss, Sss
 - Poi penetration - 40%
 - tap 4h/1h last poi - no
 - Fail or work - fail
 - Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+- if sss- sss me wick thi
+
+
+**Trade** 17 - 
+- Pair - eurchf
+- Type - Continuation
+- Leg - 
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 50%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - no
 - Explanation -
 - If engulfing - 
 - If choch - 

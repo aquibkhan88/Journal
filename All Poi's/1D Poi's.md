@@ -75,7 +75,7 @@
 
 
 
-**Trade** 1 - 
+**Trade** 5 - 
 - Pair - gbpusd
 - Type - continuation
 - Leg - Same
@@ -88,6 +88,44 @@
 - Execute - no
 - Explanation -
 - If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 6- 
+- Pair - eurusd
+- Type - continuation
+- Leg - Same
+- Poi Size - Medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss
+- Poi penetration - 75%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - internal candle mss tha usme bhi wick thi bas
+- If bos - 
+
+
+
+**Trade** 7 - 
+- Pair - audusd
+- Type - continuation
+- Leg - Same
+- Poi Size - medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - Engulfing, mss, cho
+- Poi penetration - 40%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Execute - no
+- Explanation -
+- If engulfing - engulfing hai par proper engulfing nahi hai
 - If choch - 
 - If Mss - 
 - If bos - 

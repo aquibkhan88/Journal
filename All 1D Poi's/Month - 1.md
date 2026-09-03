@@ -261,3 +261,40 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+**Trade** 15- 
+- Pair - xauusd
+- Type - reversal
+- Leg - different
+- Poi Size - medium
+- Confirmation timeframe - 1h
+- Conformation type - sss, mss
+- Poi penetration - 25%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Execute - no
+- Explanation - 4h me body nahi thi shrif wick thi
+- If engulfing - 
+- If choch - 
+- If Mss - opposite candle mss
+- If bos - 
+
+
+
+**Trade** 16 - 
+- Pair - eurchf
+- Type - continuation
+- Leg -
+- Poi Size - Large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 40%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

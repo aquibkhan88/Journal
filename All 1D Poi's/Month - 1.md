@@ -395,3 +395,78 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 22- 
+- Pair - eurusd
+- Type - Continuation
+- Leg - 
+- Poi Size - Medium
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 75%
+- tap 4h/1h last poi - Yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+**Trade** 23 - 
+- Pair - eurusd
+- Type - continuation
+- Leg - 
+- Poi Size - medium
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 75%
+- tap 4h/1h last poi - yes
+- Fail or work - Fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - wick closing thi bas
+- If bos - 
+
+
+
+**Trade** 24 - 
+- Pair - eurusd
+- Type - continuation
+- Leg - 
+- Poi Size - medium
+- Confirmation timeframe - 1h
+- Conformation type - mss, sss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 25 - 
+- Pair - eurusd
+- Type - reversal
+- Leg - Same
+- Poi Size - 
+- Confirmation timeframe - 
+- Conformation type - 
+- Poi penetration - 
+- tap 4h/1h last poi - 
+- Fail or work - 
+- Execute - 
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

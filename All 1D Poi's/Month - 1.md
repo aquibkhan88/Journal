@@ -611,12 +611,31 @@
 - Type - Reversal
 - Leg - different
 - Poi Size - large
-- Confirmation timeframe - 4h
-- Conformation type - engulfing
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, sss, mss
 - Poi penetration - 50%
 - tap 4h/1h last poi - yes
 - Fail or work - fail
 - Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 34 - 
+- Pair - Eurgbp
+- Type - Continuation
+- Leg - 
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 40%
+- tap 4h/1h last poi - 
+- Fail or work - 
+- Execute - 
 - Explanation -
 - If engulfing - 
 - If choch - 

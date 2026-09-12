@@ -1,1 +1,2 @@
 1. Continuation ho ya reversal, mss, choch, sss, tino me body closing chahiye, wick closing zadatar fail ho rahe hai
+2. Agar kisi poi ko tod kar wick de de, or fir us wick ko tod kar wapas ek wick de de to wo poi break ho gaya esa mana jayega

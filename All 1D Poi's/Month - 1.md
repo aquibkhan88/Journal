@@ -338,3 +338,60 @@
 - If Mss - Wick closing thi body nahi thi
 - If bos - 
 - if sss - wick closing thi body nahi thi
+
+
+
+
+**Trade** 19 - 
+- Pair - usoil
+- Type -reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - Engulfing
+- Poi penetration - 90%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+**Trade** 20 - 
+- Pair - Usoil
+- Type - reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - >100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 21 - 
+- Pair - usoil
+- Type - reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - choch, mss
+- Poi penetration - 90%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

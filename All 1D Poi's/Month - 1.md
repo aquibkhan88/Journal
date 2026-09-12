@@ -492,3 +492,76 @@
 
 
 
+**Trade** 27 - 
+- Pair - audusd
+- Type - reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - sss, mss, choch
+- Poi penetration - 20%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 28 - 
+- Pair - audjpy
+- Type - reversal
+- Leg - different
+- Poi Size - Medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss
+- Poi penetration - >100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - No
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - mss me wick thi
+- If bos - 
+
+
+
+**Trade** 29 - 
+- Pair - ger40
+- Type - reversal
+- Leg - different
+- Poi Size - Large
+- Confirmation timeframe - 1h
+- Conformation type - sss
+- Poi penetration - 50%
+- tap 4h/1h last poi - yes
+- Fail or work - Work
+- Execute - yes (paper)
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 30 - 
+- Pair - ger40
+- Type - continuation
+- Leg - Same/different
+- Poi Size - 
+- Confirmation timeframe - 
+- Conformation type - 
+- Poi penetration - 
+- tap 4h/1h last poi - 
+- Fail or work - 
+- Execute - 
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

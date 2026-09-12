@@ -630,12 +630,12 @@
 - Type - Continuation
 - Leg - 
 - Poi Size - large
-- Confirmation timeframe - 4h
-- Conformation type - engulfing
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, sss, mss, choch
 - Poi penetration - 40%
-- tap 4h/1h last poi - 
-- Fail or work - 
-- Execute - 
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
 - Explanation -
 - If engulfing - 
 - If choch - 

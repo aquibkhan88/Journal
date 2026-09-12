@@ -552,14 +552,71 @@
 **Trade** 30 - 
 - Pair - ger40
 - Type - continuation
-- Leg - Same/different
-- Poi Size - 
-- Confirmation timeframe - 
-- Conformation type - 
-- Poi penetration - 
-- tap 4h/1h last poi - 
-- Fail or work - 
-- Execute - 
+- Leg - 
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - mss, 
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 31 - 
+- Pair - ger40
+- Type - reversal
+- Leg - Same
+- Poi Size - Medium
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - >50%
+- tap 4h/1h last poi - Yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 32- 
+- Pair - Eurchf
+- Type - continuation
+- Leg -
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 25%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Execute - no
+- Explanation - sss kafi dur hua tha
+- If engulfing - 
+- If choch - 
+- If Mss - mss me jaha bos hota hai us side wick thi
+- If bos - 
+
+
+
+**Trade** 33 - 
+- Pair - Nzdcad
+- Type - Reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 50%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - yes
 - Explanation -
 - If engulfing - 
 - If choch - 

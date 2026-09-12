@@ -458,15 +458,37 @@
 - Pair - eurusd
 - Type - reversal
 - Leg - Same
-- Poi Size - 
-- Confirmation timeframe - 
-- Conformation type - 
-- Poi penetration - 
-- tap 4h/1h last poi - 
-- Fail or work - 
-- Execute - 
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 20%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
 - Explanation -
 - If engulfing - 
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 26 - 
+- Pair - eurusd
+- Type - reversal
+- Leg - Same
+- Poi Size - medium
+- Confirmation timeframe - 1h
+- Conformation type - sss, mss
+- Poi penetration - 90%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - yes (paper)
+- Explanation - 
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+

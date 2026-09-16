@@ -773,3 +773,41 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 42 - 
+- Pair - xauusd
+- Type - reversal
+- Leg - different
+- Poi Size - medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, sss, mss
+- Poi penetration - 70%
+- tap 4h/1h last poi - Yes
+- Fail or work - fail
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - internal candle mss tha
+- If bos - 
+
+
+
+**Trade** 43- 
+- Pair - audusd
+- Type - reversal
+- Leg - different
+- Poi Size - small
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 75%
+- tap 4h/1h last poi - yes
+- Fail or work - 
+- Execute - 
+- Explanation - jo poi tha wo ek bar kam kar chuka tha bina 
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

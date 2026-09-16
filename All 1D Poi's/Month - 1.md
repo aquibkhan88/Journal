@@ -811,3 +811,62 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+
+**Trade** 44 - 
+- Pair - nzdcad
+- Type - reversal
+- Leg - different
+- Poi Size - medium
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 50%
+- tap 4h/1h last poi - No
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 45 - 
+- Pair - nzdcad
+- Type - reversal
+- Leg - different
+- Poi Size - medium
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 46 - 
+- Pair - audnzd
+- Type - continuation
+- Leg - 
+- Poi Size - Large
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, 1h
+- Poi penetration - 25%
+- tap 4h/1h last poi - no
+- Fail or work - work
+- Execute - no
+- Explanation - 
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+- if sss - sss thoda dur tha, agar bos tak target rakhta to uske layak isme sss nahi tha, par kafi uppar gayi hai market

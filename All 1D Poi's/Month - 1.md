@@ -641,3 +641,23 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+- 
+
+
+
+**Trade** 35 - 
+- Pair - btc usd
+- Type - continuation
+- Leg - 
+- Poi Size -medium
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - 100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

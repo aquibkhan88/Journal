@@ -661,3 +661,25 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 36 - 
+- Pair - dxy
+- Type - continuation
+- Leg - 
+- Poi Size - Medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss
+- Poi penetration - 70%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+

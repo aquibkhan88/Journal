@@ -804,9 +804,9 @@
 - Conformation type - engulfing
 - Poi penetration - 75%
 - tap 4h/1h last poi - yes
-- Fail or work - 
-- Execute - 
-- Explanation - jo poi tha wo ek bar kam kar chuka tha bina 
+- Fail or work - fail
+- Execute - no
+- Explanation - jo poi tha wo ek bar kam kar chuka tha bina last poi ko tap kiye, fir is bar last poi ko tap kiya lekin kam nahi kiya
 - If engulfing - 
 - If choch - 
 - If Mss - 

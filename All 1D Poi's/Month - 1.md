@@ -870,3 +870,40 @@
 - If Mss - 
 - If bos - 
 - if sss - sss thoda dur tha, agar bos tak target rakhta to uske layak isme sss nahi tha, par kafi uppar gayi hai market
+
+
+
+**Trade** 47 - 
+- Pair - nasdaq
+- Type - reversal
+- Leg - Same
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - sss, 
+- Poi penetration - 60%
+- tap 4h/1h last poi - no
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+**Trade** 48 - 
+- Pair - nasdaq
+- Type - reversal
+- Leg - Same
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - >100%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

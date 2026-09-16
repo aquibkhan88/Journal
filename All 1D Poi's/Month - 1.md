@@ -755,3 +755,21 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+**Trade** 41 - 
+- Pair - eurusd
+- Type - Reversal
+- Leg - different
+- Poi Size - medium
+- Confirmation timeframe - 4h, 1h
+- Conformation type - engulfing, mss
+- Poi penetration - 70%
+- tap 4h/1h last poi - yes
+- Fail or work - fail
+- Execute - no
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

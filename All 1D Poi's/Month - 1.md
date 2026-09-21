@@ -910,7 +910,7 @@
 
 
 
-**Trade** 1 - 
+**Trade** 49 - 
 - Pair - nasdaq
 - Type - reversal
 - Leg - Same
@@ -922,6 +922,25 @@
 - Fail or work - work
 - Execute - no
 - Explanation - sss bohot chota sa tha is liye usko consider nahi kiya
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 
+
+
+
+**Trade** 50 - 
+- Pair - audnzd
+- Type - reversal
+- Leg - different
+- Poi Size - large
+- Confirmation timeframe - 4h
+- Conformation type - engulfing
+- Poi penetration - 50%
+- tap 4h/1h last poi - na
+- Fail or work - fail
+- Execute - no
+- Explanation -
 - If engulfing - 
 - If choch - 
 - If Mss - 

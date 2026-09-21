@@ -907,3 +907,22 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+**Trade** 1 - 
+- Pair - nasdaq
+- Type - reversal
+- Leg - Same
+- Poi Size - large
+- Confirmation timeframe - 1h
+- Conformation type - mss
+- Poi penetration - >100%
+- tap 4h/1h last poi - yes
+- Fail or work - work
+- Execute - no
+- Explanation - sss bohot chota sa tha is liye usko consider nahi kiya
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

@@ -1,0 +1,15 @@
+**Trade** 1 - 
+- Pair - 
+- 1W/1D - 
+- Type - 
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - 
+- Confirmation
+-  1h - 
+-  15m - 
+- Fail or work - 
+- Execution - 
+- RR - 
+- If reverse then why - 
+- if any Explanation -

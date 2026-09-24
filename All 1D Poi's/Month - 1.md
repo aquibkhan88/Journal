@@ -945,3 +945,23 @@
 - If choch - 
 - If Mss - 
 - If bos - 
+
+
+
+
+**Trade** 51 - 
+- Pair - NZDCAD
+- Type - Reversal
+- Leg - different
+- Poi Size - Medium
+- Confirmation timeframe - 1h
+- Conformation type - sss, mss
+- Poi penetration - 100%
+- tap 4h/1h last poi - Yes
+- Fail or work - fail
+- Execute - yes
+- Explanation -
+- If engulfing - 
+- If choch - 
+- If Mss - 
+- If bos - 

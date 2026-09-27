@@ -87,17 +87,52 @@
 
 
 **Trade** 6 - 
-- Pair - 
-- 1W/1D - 
-- Type - 
-- far same leg candle - 
+- Pair - audusd
+- 1W/1D - 1D
+- Type - reversal
+- far same leg candle - yes
 - mother candle - 
-- Sweep/Swap - 
+- Sweep/Swap - swap
 - Confirmation
 -  1h - 
--  15m - 
-- Fail or work - 
-- Execution - 
+-  15m - sss
+- Fail or work - fail
+- Execution - yes
+- RR - 
+- If reverse then why - 
+- if any Explanation -
+
+
+
+**Trade** 7 - 
+- Pair - ger40
+- 1W/1D - 1D
+- Type - continuation
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - Sweep
+- Confirmation
+-  1h - 
+-  15m - mss
+- Fail or work - fail
+- Execution - no
+- RR - 
+- If reverse then why - 
+- if any Explanation -
+
+
+**Trade** 8 - 
+- Pair - Eurgbp
+- 1W/1D - 1D
+- Type - Reversal
+- far same leg candle - 
+- mother candle - 
+- Sweep/Swap - sweep
+- Confirmation
+-  1h - engulfing
+-  15m - mss
+- Fail or work - fail
+- Execution - no
 - RR - 
 - If reverse then why - 
 - if any Explanation -

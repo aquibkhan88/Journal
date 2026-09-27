@@ -122,17 +122,37 @@
 
 
 **Trade** 8 - 
-- Pair - Eurgbp
-- 1W/1D - 1D
-- Type - Reversal
+- Pair - 
+- 1W/1D - 
+- Type - 
 - far same leg candle - 
 - mother candle - 
-- Sweep/Swap - sweep
+- Sweep/Swap - 
 - Confirmation
--  1h - engulfing
--  15m - mss
-- Fail or work - fail
-- Execution - no
+-  1h - 
+-  15m - 
+- Fail or work - 
+- Execution - 
 - RR - 
 - If reverse then why - 
 - if any Explanation -
+
+
+
+Direction - same/opposite - according to 4h structure
+Direction according to analysis - same/opposite
+Poi - 1D/4h/1W liq/1D liq
+
+
+
+**Trade 1 -** 
+- Pair - 
+- Direction - 
+- Direction according to analysis - 
+- Poi - 
+- Confirmation timeframe - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- RR - 
+- Explanation - 

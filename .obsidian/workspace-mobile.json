@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Sweep Swap Trades/Month - 1.md",
+                "file": "All Trades/Month - 1.md",
                 "mode": "source",
                 "source": false
               },
@@ -265,12 +265,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b456db53c5d12e6",
+  "active": "ec92d375e3522938",
   "lastOpenFiles": [
-    "All Sweep Swap Trades/Month - 1.md",
-    "All Sweep Swap Trades/Rules.md",
+    "All Trades/Rules.md",
+    "All Trades/Month - 1.md",
     "All 1D Poi's/Month - 1.md",
-    "All Sweep Swap Trades",
+    "All Trades",
     "All 1D Poi's/Some imp points.md",
     "All 1D Poi's/Rules.md",
     "Template/Trade Template.md",

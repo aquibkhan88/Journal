@@ -99,3 +99,14 @@ Poi - 1D/4h/1W liq/1D liq
 - Explanation - mera sl laga
 
 
+**Trade 8 -** 
+- Pair - Eurusd
+- Direction - opposite
+- Direction according to analysis - Wrong analysis
+- Poi - 1D + 1D liquidity (but 1D liquidity previous candle ke ek piche wali thi jo ki mother candle bhi nahi thi, usko nahi lena hai)
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - yes
+- RR - 0
+- Explanation - analysis galat kiya, previous 1D candle ke ek piche wali liya jo ki nahi lena hai

@@ -124,3 +124,32 @@ Poi - 1D/4h/1W liq/1D liq
 - Execution - no
 - RR - 1:1.5
 - Explanation - 4h 1st poi opposite to 1D se reversal ho gaya
+
+
+
+**Trade 10 -** 
+- Pair - audnzd
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - work (but xm me sl lag gaya)
+- Execution - yes
+- RR - 1:1
+- Explanation - mera sl laga, par mene galat mark kiya 1D poi tha hi nahi
+
+
+
+
+**Trade 11 -** 
+- Pair - audnzd
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 4h continuation poi
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - yes
+- RR - 0
+- Explanation - 1D poi tha hi nahi mene galat mark kiya

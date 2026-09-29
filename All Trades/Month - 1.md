@@ -110,3 +110,17 @@ Poi - 1D/4h/1W liq/1D liq
 - Execution - yes
 - RR - 0
 - Explanation - analysis galat kiya, previous 1D candle ke ek piche wali liya jo ki nahi lena hai
+
+
+
+**Trade 9 -** 
+- Pair - audjpy
+- Direction - Opposite
+- Direction according to analysis - same
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - work
+- Execution - no
+- RR - 1:1.5
+- Explanation - 4h 1st poi opposite to 1D se reversal ho gaya

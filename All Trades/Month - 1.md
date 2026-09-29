@@ -60,13 +60,42 @@ Poi - 1D/4h/1W liq/1D liq
 
 
 **Trade 5 -** 
-- Pair - 
-- Direction - 
-- Direction according to analysis - 
-- Poi - 
-- Confirmation timeframe - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
-- RR - 
+- Pair - usoil
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D
+- Confirmation timeframe - 1h, 4h
+- Confirmation type - mss, sss, engulfing
+- Fail or Work - work (but dusre 1D poi par confirmation nahi mili thi to mene socha or jayega par reversal ho gaya or sl lag gaya)
+- Execution - yes
+- RR - 1:1.5
+- Explanation - mera sl laga hai
+
+
+
+**Trade 6 -** 
+- Pair - eurusd
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - mss, sss
+- Fail or Work - fail
+- Execution - no
+- RR - 0
 - Explanation - 
+
+
+**Trade 7 -** 
+- Pair - eurusd
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - mss,sss 
+- Fail or Work - work (but samne 4h poi tha jo 1D ko bhi reverse kar deta hai waha tak gaya or waha se reverse ho gaya, but mene exit nahi kiya)
+- Execution - yes
+- RR - 1:1.5 
+- Explanation - mera sl laga
+
+

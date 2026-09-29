@@ -44,3 +44,29 @@ Poi - 1D/4h/1W liq/1D liq
 - Execution - yes
 - RR - 1:2 tak mila tha
 - Explanation - ek bar 4h poi me 15m mss fail hua hai
+
+
+**Trade 4 -** 
+- Pair - dxy
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 4h continuation poi + daily liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - no
+- RR - 0
+- Explanation - 
+
+
+**Trade 5 -** 
+- Pair - 
+- Direction - 
+- Direction according to analysis - 
+- Poi - 
+- Confirmation timeframe - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- RR - 
+- Explanation - 

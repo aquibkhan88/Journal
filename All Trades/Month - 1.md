@@ -11,12 +11,12 @@ Poi - 1D/4h/1W liq/1D liq
 - Pair - nasdaq
 - Direction - same
 - Direction according to analysis - same
-- Poi - 4h
+- Poi - 4h continuation poi
 - Confirmation timeframe - 15m
 - Confirmation type - mss
 - Fail or Work - fail
 - Execution - no
-- RR - 
+- RR - 0
 - Explanation - 
 
 
@@ -24,10 +24,23 @@ Poi - 1D/4h/1W liq/1D liq
 - Pair - usoil
 - Direction - Opposite
 - Direction according to analysis - opposite
-- Poi - 4h
+- Poi - 4h 1st poi opposite to 1D
 - Confirmation timeframe - 15m
 - Confirmation type - Mss
-- Fail or Work - 
-- Execution - 
-- RR - 
+- Fail or Work - Fail
+- Execution - no
+- RR - 0
 - Explanation - 
+
+
+**Trade 3 -** 
+- Pair - usoil
+- Direction - opposite
+- Direction according to analysis - opposite
+- Poi - 4h 1st poi opposite to 1D
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - yes
+- RR - 1:2 tak mila tha
+- Explanation - ek bar 4h poi me 15m mss fail hua hai

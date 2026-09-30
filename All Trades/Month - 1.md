@@ -153,3 +153,6 @@ Poi - 1D/4h/1W liq/1D liq
 - Execution - yes
 - RR - 0
 - Explanation - 1D poi tha hi nahi mene galat mark kiya
+
+
+

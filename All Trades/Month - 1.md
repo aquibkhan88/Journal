@@ -251,14 +251,27 @@ Poi - 1D/4h/1W liq/1D liq
 - Explanation - mss me jaha bos hota waha wick thi
 
 
-**Trade 1 -** 
-- Pair - 
-- Direction - 
-- Direction according to analysis - 
-- Poi - 
-- Confirmation timeframe - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
-- RR - 
-- Explanation - 
+**Trade 19 -** 
+- Pair - audjpy
+- Direction - opposite
+- Direction according to analysis - na
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - fail
+- Execution - yes
+- RR - 0
+- Explanation - sss me wick thi
+
+
+**Trade 20 -** 
+- Pair - nzdcad
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - Sss
+- Fail or Work - work
+- Execution - yes
+- RR - 1:2
+- Explanation - but mera cost to cost hua kyu ki

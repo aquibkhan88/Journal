@@ -156,3 +156,28 @@ Poi - 1D/4h/1W liq/1D liq
 
 
 
+**Trade 12 -** 
+- Pair - cadchf
+- Direction - opposite
+- Direction according to analysis - opposite
+- Poi - 4h 1st poi opposite to 1D
+- Confirmation timeframe - 15m
+- Confirmation type - mss (but wick thi)
+- Fail or Work - fail
+- Execution - yes
+- RR - 0
+- Explanation - Ek bar pehele bhi 4h poi me aa gaya tha fir thoda niche gaya bina confirmation diye fir wapas poi me aaya
+
+
+
+**Trade 13 -** 
+- Pair - gbpjpy
+- Direction - Continuation
+- Direction according to analysis - 
+- Poi - 
+- Confirmation timeframe - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- RR - 
+- Explanation - 

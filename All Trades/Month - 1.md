@@ -173,6 +173,20 @@ Poi - 1D/4h/1W liq/1D liq
 **Trade 13 -** 
 - Pair - gbpjpy
 - Direction - Continuation
+- Direction according to analysis - continuation
+- Poi - 4h 1st poi opposite to 1D
+- Confirmation timeframe - 15m
+- Confirmation type - Mss, sss
+- Fail or Work - work
+- Execution - yes
+- RR - 1:5
+- Explanation - but mene tp nahi lagaya tha to reverse ho gaya or meko 1:2 hi mila
+
+
+
+**Trade 1 -** 
+- Pair - 
+- Direction - 
 - Direction according to analysis - 
 - Poi - 
 - Confirmation timeframe - 

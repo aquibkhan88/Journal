@@ -184,14 +184,41 @@ Poi - 1D/4h/1W liq/1D liq
 
 
 
-**Trade 1 -** 
-- Pair - 
-- Direction - 
-- Direction according to analysis - 
-- Poi - 
-- Confirmation timeframe - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
-- RR - 
-- Explanation - 
+**Trade 14 -** 
+- Pair - xauusd
+- Direction - same
+- Direction according to analysis - same
+- Poi - 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - no
+- RR - 0
+- Explanation - bos ho gaya tha uske bad ka reversal tha
+
+
+**Trade 15 -** 
+- Pair - dxy
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1D
+- Confirmation timeframe - 1h
+- Confirmation type - mss
+- Fail or Work - Fail
+- Execution - no
+- RR - 0
+- Explanation - mss me jidhar side bos hota waha wick thi
+
+
+
+**Trade 16 -** 
+- Pair - dxy
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 4h continuation poi
+- Confirmation timeframe - 15m
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - No
+- RR - 0
+- Explanation - meko laga 1D ke poi se reverse ho gaya hai kyu ki 1h ki confirmation de diya tha but wo confirmation fake thi kyu ki usme wick thi

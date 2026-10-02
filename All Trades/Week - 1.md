@@ -275,3 +275,44 @@ Poi - 1D/4h/1W liq/1D liq
 - Execution - yes
 - RR - 1:2
 - Explanation - but mera cost to cost hua kyu ki samne 4h poi tha jo reverse kar diya or mene exit nahi kiya
+
+
+
+**Trade 21 -** 
+- Pair - nasdaq
+- Direction - same
+- Direction according to analysis - same
+- Poi - 4h continuation poi
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - work
+- Execution - no
+- RR - 1:3
+- Explanation - 
+
+
+
+**Trade 22 -** 
+- Pair - usoil
+- Direction - Same
+- Direction according to analysis - same
+- Poi - 4h 1st poi opposite to 1D
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - fail
+- Execution - no
+- RR - 0
+- Explanation - poi ko bas halka sa touch hi kiya tha or poi bada tha
+
+
+**Trade 23 -** 
+- Pair - usoil
+- Direction - same
+- Direction according to analysis - same
+- Poi - 4h 1srt opposite to 1D
+- Confirmation timeframe - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- RR - 
+- Explanation - 

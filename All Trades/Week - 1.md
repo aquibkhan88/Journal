@@ -334,13 +334,16 @@ Poi - 1D/4h/1W liq/1D liq
 
 
 **Trade 25-** 
-- Pair - 
-- Direction - 
-- Direction according to analysis - 
-- Poi - 
-- Confirmation timeframe - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
-- RR - 
-- Explanation - 
+- Pair - audusd
+- Direction - opposite
+- Direction according to analysis - same
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - fail
+- Execution - yes
+- RR - 0
+- Explanation - just uppar 4h poi tha
+
+
+

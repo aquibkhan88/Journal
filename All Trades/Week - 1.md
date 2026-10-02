@@ -309,7 +309,35 @@ Poi - 1D/4h/1W liq/1D liq
 - Pair - usoil
 - Direction - same
 - Direction according to analysis - same
-- Poi - 4h 1srt opposite to 1D
+- Poi - 4h 1st poi opposite to 1D
+- Confirmation timeframe - 15m
+- Confirmation type - sss
+- Fail or Work - work
+- Execution - no
+- RR - 
+- Explanation - 
+
+
+
+**Trade 24 -** 
+- Pair - dxy
+- Direction - opposite
+- Direction according to analysis - na
+- Poi - 1D
+- Confirmation timeframe - 1h
+- Confirmation type - mss
+- Fail or Work - fail
+- Execution - no
+- RR - 0
+- Explanation - 
+
+
+
+**Trade 25-** 
+- Pair - 
+- Direction - 
+- Direction according to analysis - 
+- Poi - 
 - Confirmation timeframe - 
 - Confirmation type - 
 - Fail or Work - 

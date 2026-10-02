@@ -274,4 +274,4 @@ Poi - 1D/4h/1W liq/1D liq
 - Fail or Work - work
 - Execution - yes
 - RR - 1:2
-- Explanation - but mera cost to cost hua kyu ki
+- Explanation - but mera cost to cost hua kyu ki samne 4h poi tha jo reverse kar diya or mene exit nahi kiya

@@ -347,3 +347,14 @@ Poi - 1D/4h/1W liq/1D liq
 
 
 
+**Trade 26 -** 
+- Pair - audjpy
+- Direction - same
+- Direction according to analysis - same
+- Poi - 4h continuation poi
+- Confirmation timeframe - 15m
+- Confirmation type - mss, 
+- Fail or Work - work
+- Execution - no
+- RR - 1:3.5
+- Explanation - 

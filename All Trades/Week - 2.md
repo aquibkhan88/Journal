@@ -12,7 +12,7 @@
 
 **Trade 2 -** 
 - Pair - xauusd
-- Poi - 4h 1st poi opposite to 1D
+- Poi - 4h 1st poi opposite to 1D poi
 - Confirmation type - mss
 - Fail or Work - fail
 - Execution - yes (paper)
@@ -20,10 +20,10 @@
 
 
 
-**Trade 1 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
-- Explanation - 
+**Trade 3 -** 
+- Pair - gbpusd
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - sss
+- Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - ek hi candle ka sss tha

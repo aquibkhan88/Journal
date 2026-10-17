@@ -27,3 +27,23 @@
 - Fail or Work - fail
 - Execution - yes (paper)
 - Explanation - ek hi candle ka sss tha
+
+
+
+**Trade 4 -** 
+- Pair - nasdaq
+- Poi - 1D liquidity
+- Confirmation type - mss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+
+**Trade 5 -** 
+- Pair - xauusd
+- Poi - 4h 1st poi opposite to 1D poi
+- Confirmation type - mss
+- Fail or Work - 
+- Execution - 
+- Explanation - 

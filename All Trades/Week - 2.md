@@ -57,6 +57,23 @@
 - Execution - yes (paper)
 - Explanation - 
 
+**Trade 7 -** 
+- Pair - btcusd
+- Poi - 1W liquidity
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - cadchf
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m sss, iss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+
 **Trade 1 -** 
 - Pair - 
 - Poi - 

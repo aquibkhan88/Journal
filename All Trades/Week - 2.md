@@ -47,3 +47,20 @@
 - Fail or Work - 1:1.5 tak mila hai 
 - Execution - no
 - Explanation - 
+
+
+**Trade 6 -** 
+- Pair - btcusd
+- Poi - 4h continuation poi
+- Confirmation type - iss, mss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - 
+- Poi - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- Explanation - 

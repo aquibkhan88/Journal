@@ -44,6 +44,6 @@
 - Pair - xauusd
 - Poi - 4h 1st poi opposite to 1D poi
 - Confirmation type - mss
-- Fail or Work - 
-- Execution - 
+- Fail or Work - 1:1.5 tak mila hai 
+- Execution - no
 - Explanation - 

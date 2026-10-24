@@ -1,3 +1,10 @@
+Result - 
+
+
+
+
+
+
 
 
 
@@ -287,7 +294,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 34 -** 
 - Pair - ger40
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m sss, mss
@@ -296,7 +303,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 35 -** 
 - Pair - ger40
 - Poi - 1W liquidity
 - Confirmation type - 15m iss, mss
@@ -305,7 +312,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 36 -** 
 - Pair - ger40
 - Poi - 1W liquidity
 - Confirmation type - 15m iss
@@ -314,7 +321,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 37 -** 
 - Pair - eurchf
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m sss, iss
@@ -323,7 +330,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 38 -** 
 - Pair - eurchf
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m sss
@@ -332,7 +339,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 39 -** 
 - Pair - nzdcad
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m iss, mss, sss
@@ -341,7 +348,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 40 -** 
 - Pair - nzdcad
 - Poi - 4h 1st poi opposite to 1W
 - Confirmation type - 15m iss, sss
@@ -349,7 +356,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 41 -** 
 - Pair - audnzd
 - Poi - 1D continuation poi + 4h BB
 - Confirmation type - 15m sss, iss, mss
@@ -358,7 +365,7 @@
 - Explanation - bos hone ke bad ka tha
 
 
-**Trade 1 -** 
+**Trade 42 -** 
 - Pair - audnzd
 - Poi - 4h continuation poi
 - Confirmation type - 15m sss, iss
@@ -367,7 +374,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 43 -** 
 - Pair - audnzd
 - Poi - 4h continuation poi
 - Confirmation type - 15m iss, sss

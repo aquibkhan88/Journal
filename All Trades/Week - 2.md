@@ -65,7 +65,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 8 -** 
 - Pair - cadchf
 - Poi - 1D poi + 1D liquidity
 - Confirmation type - 15m sss, iss
@@ -74,7 +74,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 9 -** 
 - Pair - cadchf
 - Poi - 1D poi + 1W liquidity
 - Confirmation type - 15m iss, sss
@@ -82,7 +82,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 10 -** 
 - Pair - cadchf
 - Poi - 1D poi
 - Confirmation type - 15m iss, sss
@@ -91,7 +91,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 11 -** 
 - Pair - cadchf
 - Poi - 4h 1st poi opposite to 1D poi
 - Confirmation type - 15m, sss, iss
@@ -100,7 +100,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 12 -** 
 - Pair - gbpjpy
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m iss
@@ -108,7 +108,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 13 -** 
 - Pair - gbpjpy
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m iss, mss
@@ -117,7 +117,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 14 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

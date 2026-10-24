@@ -10,11 +10,11 @@ Win rate - 77.5 %
 1W liquidity - 5/5 - 100%
 1D liquidity - 2/2 - 100%
 1D poi + 1D liquidity - 2/2 - 100%
-1W liquidity + 1D liquidity - 7/5 - 71%
+1W liquidity + 1D liquidity - 6/5 - 83%
 4h 1st poi opposite to 1D - 6/4 - 67%
-4h 1st poi opposite to 1W liquidity - 8/5 - 63%
+4h 1st poi opposite to 1W liquidity - 7/5 - 71%
 1D poi + 1W liquidity - 2/1 - 50%
-1D poi - 3/1 - 33%
+1D poi - 2/1 - 50%
 4h poi opposite to 4h 1st poi - 1/0 - 0%
 
 
@@ -375,7 +375,7 @@ Win rate - 77.5 %
 
 **Trade 41 -** 
 - Pair - audnzd
-- Poi - 1D continuation poi + 4h BB
+- Poi - 4h poi
 - Confirmation type - 15m sss, iss, mss
 - Fail or Work - fail
 - Execution - no

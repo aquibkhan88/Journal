@@ -1,15 +1,21 @@
 Result - 
 
-Total trades - 43
+Total trades - 40
 Work - 31
-Fail - 12
-Win rate - 72 %
+Fail - 9
+Win rate - 77.5 %
 
 
 4h continuation poi - 6/6 - 100%
 1W liquidity - 5/5 - 100%
-1W liquidity + 1D liquidity - 7/5 - 
-1D poi - 3/1 - 
+1D liquidity - 2/2 - 100%
+1D poi + 1D liquidity - 2/2 - 100%
+1W liquidity + 1D liquidity - 7/5 - 71%
+4h 1st poi opposite to 1D - 6/4 - 67%
+4h 1st poi opposite to 1W liquidity - 8/5 - 63%
+1D poi + 1W liquidity - 2/1 - 50%
+1D poi - 3/1 - 33%
+4h poi opposite to 4h 1st poi - 1/0 - 0%
 
 
 

@@ -333,6 +333,23 @@
 
 
 **Trade 1 -** 
+- Pair - nzdcad
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m iss, mss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - nzdcad
+- Poi - 4h 1st poi opposite to 1W
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

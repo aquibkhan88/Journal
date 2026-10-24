@@ -126,7 +126,7 @@
 - Explanation - retest ke liye aaya tha fir 4h ke poi se 1D ke poi ko follow kiya
 
 
-**Trade 1 -** 
+**Trade 15 -** 
 - Pair - nasdaq
 - Poi - 4h continuation poi
 - Confirmation type - 15m mss
@@ -135,7 +135,25 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 16 -** 
+- Pair - nasdaq
+- Poi - 4h 1st poi after 1D poi
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 17 -** 
+- Pair - nasdaq
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - fail
+- Execution - no
+- Explanation - mss or sss dono me body body closing nahi hui, bas wick thi
+
+
+**Trade 18 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

@@ -248,9 +248,33 @@
 - Explanation - 
 
 **Trade 1 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
+- Pair - audjpy
+- Poi - 1D poi
+- Confirmation type - 15m sss
+- Fail or Work - fail
+- Execution - no
+- Explanation - poi kafi bada tha
+
+**Trade 1 -** 
+- Pair - audjpy
+- Poi - 1D poi + 1W liquidity
+- Confirmation type - 15m iss
+- Fail or Work - fail
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - audjpy
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m iss, mss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - audjpy
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m iss, sss, mss
 - Fail or Work - 
 - Execution - 
 - Explanation - 

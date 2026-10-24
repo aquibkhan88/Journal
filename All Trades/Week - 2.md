@@ -21,8 +21,8 @@ Win rate - 77.5 %
 
 ##### Confirmation type -
 Iss - 29/26 - 90%
-Sss - 18/16 - 89%
-Mss - 21/17 - 81%
+Mss  - 18/16 - 89%
+Sss - 21/17 - 81%
 
 
 ##### Pairs - 

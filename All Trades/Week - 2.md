@@ -161,7 +161,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 19 -** 
 - Pair - usoil
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m iss
@@ -170,7 +170,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 20 -** 
 - Pair - xauusd
 - Poi - 4h 1st poi opposite to 1D poi
 - Confirmation type - 15m iss, sss, mss
@@ -179,7 +179,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 21 -** 
 - Pair - xauusd
 - Poi - 4h poi opposite to 4h 1st poi
 - Confirmation type - 15m sss, iss
@@ -188,7 +188,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 22 -** 
 - Pair - dxy
 - Poi - 1W liquidity
 - Confirmation type - 15m iss, sss
@@ -197,7 +197,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 23 -** 
 - Pair - dxy
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m iss, mss, sss
@@ -205,7 +205,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 24 -** 
 - Pair - dxy
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m mss, iss
@@ -214,7 +214,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 25 -** 
 - Pair - gbpusd
 - Poi - 1D poi
 - Confirmation type - 15m iss, mss, sss
@@ -222,7 +222,7 @@
 - Execution - no
 - Explanation - 4h and 1h me bas wick thi
 
-**Trade 1 -** 
+**Trade 26 -** 
 - Pair - gbpusd
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m mss, iss
@@ -230,7 +230,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 27 -** 
 - Pair - audusd
 - Poi - 4h 1st poi opposite to 1W
 - Confirmation type - 15m sss
@@ -239,7 +239,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 28 -** 
 - Pair - audusd
 - Poi - 4h continuation poi
 - Confirmation type - 15m sss, iss
@@ -247,7 +247,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 29 -** 
 - Pair - audjpy
 - Poi - 1D poi
 - Confirmation type - 15m sss
@@ -255,7 +255,7 @@
 - Execution - no
 - Explanation - poi kafi bada tha
 
-**Trade 1 -** 
+**Trade 30 -** 
 - Pair - audjpy
 - Poi - 1D poi + 1W liquidity
 - Confirmation type - 15m iss
@@ -263,7 +263,7 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 31 -** 
 - Pair - audjpy
 - Poi - 1W liquidity + 1D liquidity
 - Confirmation type - 15m iss, mss
@@ -271,10 +271,26 @@
 - Execution - no
 - Explanation - 
 
-**Trade 1 -** 
+**Trade 32 -** 
 - Pair - audjpy
 - Poi - 1D poi + 1D liquidity
 - Confirmation type - 15m iss, sss, mss
-- Fail or Work - 
-- Execution - 
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 33 -** 
+- Pair - ger40
+- Poi - 1W liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - ger40
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m sss, mss
+- Fail or Work - fail
+- Execution - no
 - Explanation - 

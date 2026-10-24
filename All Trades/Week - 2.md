@@ -1,5 +1,16 @@
 Result - 
 
+Total trades - 43
+Work - 31
+Fail - 12
+Win rate - 72 %
+
+
+4h continuation poi - 6/6 - 100%
+1W liquidity - 5/5 - 100%
+1W liquidity + 1D liquidity - 7/5 - 
+1D poi - 3/1 - 
+
 
 
 

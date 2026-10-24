@@ -350,9 +350,31 @@
 - Explanation - 
 
 **Trade 1 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
+- Pair - audnzd
+- Poi - 1D continuation poi + 4h BB
+- Confirmation type - 15m sss, iss, mss
+- Fail or Work - fail
+- Execution - no
+- Explanation - bos hone ke bad ka tha
+
+
+**Trade 1 -** 
+- Pair - audnzd
+- Poi - 4h continuation poi
+- Confirmation type - 15m sss, iss
+- Fail or Work - work
+- Execution - no
 - Explanation - 
+
+
+**Trade 1 -** 
+- Pair - audnzd
+- Poi - 4h continuation poi
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+
+

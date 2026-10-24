@@ -154,6 +154,23 @@
 
 
 **Trade 18 -** 
+- Pair - usoil
+- Poi - 4h continuation poi
+- Confirmation type - 30m iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - usoil
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

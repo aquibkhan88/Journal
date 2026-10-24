@@ -215,7 +215,23 @@
 
 
 **Trade 1 -** 
-- Pair - 
+- Pair - gbpusd
+- Poi - 1D poi
+- Confirmation type - 15m iss, mss, sss
+- Fail or Work - fail
+- Execution - no
+- Explanation - 4h and 1h me bas wick thi
+
+**Trade 1 -** 
+- Pair - gbpusd
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - audusd
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 

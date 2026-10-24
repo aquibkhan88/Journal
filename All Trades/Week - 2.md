@@ -1,4 +1,4 @@
-Result - 
+### Result - 
 
 Total trades - 40
 Work - 31
@@ -18,6 +18,10 @@ Win rate - 77.5 %
 4h poi opposite to 4h 1st poi - 1/0 - 0%
 
 
+
+Iss - 29/26 - 90%
+Sss - 18/16 - 89%
+Mss - 21/17 - 81%
 
 
 
@@ -375,7 +379,7 @@ Win rate - 77.5 %
 
 **Trade 41 -** 
 - Pair - audnzd
-- Poi - 4h poi
+- Poi - 4h continuation poi
 - Confirmation type - 15m sss, iss, mss
 - Fail or Work - fail
 - Execution - no

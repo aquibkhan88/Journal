@@ -171,6 +171,33 @@
 
 
 **Trade 1 -** 
+- Pair - xauusd
+- Poi - 4h 1st poi opposite to 1D poi
+- Confirmation type - 15m iss, sss, mss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - xauusd
+- Poi - 4h poi opposite to 4h 1st poi
+- Confirmation type - 15m sss, iss
+- Fail or Work - fail
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - dxy
+- Poi - 1W liquidity
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

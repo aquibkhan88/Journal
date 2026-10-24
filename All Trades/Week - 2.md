@@ -6,6 +6,7 @@ Fail - 9
 Win rate - 77.5 %
 
 
+##### Poi - 
 4h continuation poi - 6/6 - 100%
 1W liquidity - 5/5 - 100%
 1D liquidity - 2/2 - 100%
@@ -18,14 +19,25 @@ Win rate - 77.5 %
 4h poi opposite to 4h 1st poi - 1/0 - 0%
 
 
-
+##### Confirmation type -
 Iss - 29/26 - 90%
 Sss - 18/16 - 89%
 Mss - 21/17 - 81%
 
 
+##### Pairs - 
+NASDAQ - 4/4 - 100%
+USOIL, DXY - 3/3 - 100%
+BTCUSD, EURCHF, NZDCAD - 2/2 - 100%
+GBPUSD - 1/1 - 100%
+CADCHF, GER40 - 4/3 - 75%
+AUDNZD - 3/2 - 67%
+XAUUSD, AUDJPY - 4/2 - 50%
+GBPJPY, AUDUSD - 2/1 - 50%
 
 
+
+___________________________________
 
 
 

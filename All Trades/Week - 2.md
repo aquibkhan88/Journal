@@ -198,6 +198,23 @@
 
 
 **Trade 1 -** 
+- Pair - dxy
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m iss, mss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - dxy
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

@@ -22,7 +22,7 @@
 
 **Trade 3 -** 
 - Pair - cadchf
-- Poi - 1W liquidity (mother candle or 2 candle)
+- Poi - 1W liquidity (mother candle of 2 candle)
 - Confirmation type - 15m sss, iss, mss
 - Fail or Work - fail
 - Execution - yes

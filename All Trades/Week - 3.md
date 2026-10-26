@@ -29,7 +29,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 4 -** 
 - Pair -xauusd
 - Poi - 4h 1st poi opposite to 1M liquidity
 - Confirmation type - 15m mss
@@ -38,7 +38,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 5 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

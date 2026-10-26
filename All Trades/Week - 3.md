@@ -27,3 +27,21 @@
 - Fail or Work - fail
 - Execution - yes
 - Explanation - 
+
+
+**Trade 1 -** 
+- Pair -xauusd
+- Poi - 4h 1st poi opposite to 1M liquidity
+- Confirmation type - 15m mss
+- Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - 
+- Poi - 
+- Confirmation type - 
+- Fail or Work - 
+- Execution - 
+- Explanation - 

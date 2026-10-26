@@ -12,7 +12,7 @@ Win rate - 77.5 %
 1D liquidity - 2/2 - 100%
 1D poi + 1D liquidity - 2/2 - 100%
 1W liquidity + 1D liquidity - 6/5 - 83%
-4h 1st poi opposite to 1D - 6/4 - 67%
+4h 1st poi opposite to 1D poi - 6/4 - 67%
 4h 1st poi opposite to 1W liquidity - 7/5 - 71%
 1D poi + 1W liquidity - 2/1 - 50%
 1D poi - 2/1 - 50%

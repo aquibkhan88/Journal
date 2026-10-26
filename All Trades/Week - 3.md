@@ -17,13 +17,13 @@
 - Confirmation type - 15m mss, 
 - Fail or Work - fail
 - Execution - yes 
-- Explanation - 
+- Explanation - sweep karke fir kam kiya
 
 
 **Trade 3 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
+- Pair - cadchf
+- Poi - 1W liquidity (mother candle or 2 candle)
+- Confirmation type - 15m sss, iss, mss
+- Fail or Work - fail
+- Execution - yes
 - Explanation - 

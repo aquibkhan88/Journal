@@ -47,7 +47,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 6 -** 
 - Pair - nasdaq
 - Poi - 1D liquidity
 - Confirmation type - 15m mss, sss
@@ -56,7 +56,16 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 7 -** 
+- Pair - nzdcad
+- Poi - 4h continuation poi
+- Confirmation type - 15m mss
+- Fail or Work - fail
+- Execution - yes 
+- Explanation - wick thi mss me, mene entry lene me jaldi kiya
+
+
+**Trade 8 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

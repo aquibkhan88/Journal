@@ -35,7 +35,7 @@
 - Confirmation type - 15m mss
 - Fail or Work - fail
 - Execution - yes (paper)
-- Explanation - 
+- Explanation - ek bar fail karke double se wahi poi se confirmation diya fir kam kiya
 
 
 **Trade 5 -** 

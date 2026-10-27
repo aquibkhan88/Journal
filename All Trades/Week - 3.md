@@ -39,9 +39,29 @@
 
 
 **Trade 5 -** 
+- Pair - nasdaq
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - nasdaq
+- Poi - 1D liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 
 - Execution - 
 - Explanation - 
+
+

@@ -93,6 +93,15 @@
 
 
 **Trade 1 -** 
+- Pair - audusd
+- Poi - 1W liquidity
+- Confirmation type - 15m mss, iss, sss
+- Fail or Work - 1:2 tak mila par bina kisi effective area ke reverse kar diya
+- Execution - yes (paper) (mera sl lag gaya kyu ki mene top par sl nahi rakha tha) 
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

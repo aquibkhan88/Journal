@@ -102,9 +102,9 @@
 
 
 **Trade 1 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
-- Execution - 
+- Pair - ger40
+- Poi - 1D liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - fail
+- Execution - yes (paper)
 - Explanation - 

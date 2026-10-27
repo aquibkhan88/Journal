@@ -66,6 +66,15 @@
 
 
 **Trade 8 -** 
+- Pair - nasdaq
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

@@ -17,7 +17,7 @@
 - Confirmation type - 15m mss, 
 - Fail or Work - fail
 - Execution - yes 
-- Explanation - sweep karke fir kam kiya
+- Explanation - 
 
 
 **Trade 3 -** 
@@ -35,7 +35,7 @@
 - Confirmation type - 15m mss
 - Fail or Work - fail
 - Execution - yes (paper)
-- Explanation - ek bar fail karke double se wahi poi se confirmation diya fir kam kiya
+- Explanation -
 
 
 **Trade 5 -** 
@@ -75,11 +75,27 @@
 
 
 **Trade 1 -** 
+- Pair - usoil
+- Poi - 4h 1st poi opposite to 1M liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - same poi of trade no 2
+
+
+**Trade 1 -** 
+- Pair - xauusd
+- Poi - 4h 1st poi opposite to 1M liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - 1:2 tak mila par bina kisi effective area se reverse kar diya
+- Execution - yes (paper)
+- Explanation - same poi of trade no 4
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 
 - Execution - 
 - Explanation - 
-
-

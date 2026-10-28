@@ -131,6 +131,33 @@
 
 
 **Trade 1 -** 
+- Pair - nzdcad
+- Poi - 4h continuation poi + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - 1:2 tak mila tha fir bina kisi effective area ke reverse ho gaya
+- Execution - yes (paper)
+- Explanation - mera sl laga
+
+
+**Trade 1 -** 
+- Pair - audnzd
+- Poi - 1W liquidity
+- Confirmation type - 15m sss, iss
+- Fail or Work - work
+- Execution - yes 
+- Explanation - mera sl laga kyu ki 4h 1st poi par aa kar confirmation diya lekin mene exit nahi kiya, or waha se acha khasa move aa gaya
+
+
+**Trade 1 -** 
+- Pair - audnzd
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

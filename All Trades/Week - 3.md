@@ -158,6 +158,15 @@
 
 
 **Trade 18 -** 
+- Pair - cadchf
+- Poi - 1M liquidity + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - fail
+- Execution - yes
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

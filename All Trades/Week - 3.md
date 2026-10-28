@@ -166,6 +166,16 @@
 - Explanation - 
 
 
+**Trade 19 -** 
+- Pair - audjpy
+- Poi - 1W liquidity + 1D poi
+- Confirmation type - 15m mss, sss, iss
+- Fail or Work - fail
+- Execution - yes
+- Explanation - 
+
+
+
 **Trade 1 -** 
 - Pair - 
 - Poi - 

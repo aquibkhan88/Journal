@@ -107,7 +107,7 @@
 - Confirmation type - 15m mss, 
 - Fail or Work - fail
 - Execution - yes (paper)
-- Explanation - 
+- Explanation - mene direction galat nikala
 
 
 

@@ -121,6 +121,16 @@
 
 
 **Trade 14 -** 
+- Pair - audusd
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - 1W liquidity kuch 15m candles dur hi thi
+
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

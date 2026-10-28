@@ -130,7 +130,7 @@
 
 
 
-**Trade 1 -** 
+**Trade 15 -** 
 - Pair - nzdcad
 - Poi - 4h continuation poi + 1D liquidity
 - Confirmation type - 15m mss, iss
@@ -139,7 +139,7 @@
 - Explanation - mera sl laga
 
 
-**Trade 1 -** 
+**Trade 16 -** 
 - Pair - audnzd
 - Poi - 1W liquidity
 - Confirmation type - 15m sss, iss
@@ -148,7 +148,7 @@
 - Explanation - mera sl laga kyu ki 4h 1st poi par aa kar confirmation diya lekin mene exit nahi kiya, or waha se acha khasa move aa gaya
 
 
-**Trade 1 -** 
+**Trade 17 -** 
 - Pair - audnzd
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m sss
@@ -157,7 +157,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 18 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

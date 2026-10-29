@@ -186,6 +186,24 @@
 
 
 **Trade 1 -** 
+- Pair - gbpusd
+- Poi - 1W liquidity
+- Confirmation type - 15m sss, iss
+- Fail or Work - Work
+- Execution - yes
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - eurusd
+- Poi - 4h continuation poi
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - no
+- Explanation - jaha tak jana tha wo bohot hi pas tha 1:1 bhi nahi milta
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

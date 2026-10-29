@@ -204,8 +204,36 @@
 
 
 **Trade 1 -** 
-- Pair - 
-- Poi - 
+- Pair - eurchf
+- Poi - 1D poi
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - no
+- Explanation - jaha tak jana tha wo bohot hi pas tha 1:1 bhi nahi milta
+
+
+**Trade 1 -** 
+- Pair - eurchf
+- Poi - 4h 1st poi opposite to 1D poi
+- Confirmation type - 15m mss
+- Fail or Work - work
+- Execution - no
+- Explanation - jaha se execution karma tha waha wapas aaya hi nahi
+
+
+**Trade 1 -** 
+- Pair - eurchf
+- Poi - 4h poi opposite to 4h 1st poi
+- Confirmation type - 15m mss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+
+**Trade 1 -** 
+- Pair - eurgbp
+- Poi - 1W liquidity
 - Confirmation type - 
 - Fail or Work - 
 - Execution - 

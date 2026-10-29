@@ -177,6 +177,15 @@
 
 
 **Trade 1 -** 
+- Pair - xauusd
+- Poi - 4h 1st poi opposite to 1M liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - 1:2 tak mila hai fir bina kisi effective area ke reverse kar diya
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

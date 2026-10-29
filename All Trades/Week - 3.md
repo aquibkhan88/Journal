@@ -176,7 +176,7 @@
 
 
 
-**Trade 1 -** 
+**Trade 20 -** 
 - Pair - xauusd
 - Poi - 4h 1st poi opposite to 1M liquidity
 - Confirmation type - 15m mss, iss

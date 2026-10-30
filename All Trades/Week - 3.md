@@ -342,6 +342,15 @@
 
 **Trade 1 -** 
 - Pair - dxy
+- Poi - 1W liquidity + 1D liquidity + 1D poi
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - market gap tha thoda bada sa waha se reverse hui
+
+
+**Trade 1 -** 
+- Pair - eurusd
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 

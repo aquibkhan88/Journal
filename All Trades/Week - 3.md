@@ -185,7 +185,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 21 -** 
 - Pair - gbpusd
 - Poi - 1W liquidity
 - Confirmation type - 15m sss, iss
@@ -194,7 +194,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 22 -** 
 - Pair - eurusd
 - Poi - 4h continuation poi
 - Confirmation type - 15m sss
@@ -203,7 +203,7 @@
 - Explanation - jaha tak jana tha wo bohot hi pas tha 1:1 bhi nahi milta
 
 
-**Trade 1 -** 
+**Trade 23 -** 
 - Pair - eurchf
 - Poi - 1D poi
 - Confirmation type - 15m sss
@@ -212,7 +212,7 @@
 - Explanation - jaha tak jana tha wo bohot hi pas tha 1:1 bhi nahi milta
 
 
-**Trade 1 -** 
+**Trade 24 -** 
 - Pair - eurchf
 - Poi - 4h 1st poi opposite to 1D poi
 - Confirmation type - 15m mss
@@ -221,7 +221,7 @@
 - Explanation - jaha se execution karma tha waha wapas aaya hi nahi
 
 
-**Trade 1 -** 
+**Trade 25 -** 
 - Pair - eurchf
 - Poi - 4h poi opposite to 4h 1st poi
 - Confirmation type - 15m mss
@@ -231,10 +231,21 @@
 
 
 
-**Trade 1 -** 
+**Trade 26 -** 
 - Pair - eurgbp
 - Poi - 1W liquidity
+- Confirmation type - 15m sss
+- Fail or Work - 1:3 tak mila fir 1D li liquidity se gir gaya
+- Execution - no
+- Explanation - market bohot niche hi gir rahi thi
+
+
+**Trade 26 -** 
+- Pair - btcusd
+- Poi - 
 - Confirmation type - 
 - Fail or Work - 
 - Execution - 
 - Explanation - 
+
+

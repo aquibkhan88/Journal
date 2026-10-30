@@ -242,10 +242,44 @@
 
 **Trade 26 -** 
 - Pair - btcusd
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m sss, iss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - mera sl laga kyu ki jaha tak jana tha wo me analysis me nahi laya
+
+
+**Trade 1 -** 
+- Pair - btcusd
+- Poi - 4h 1st poi opposite to 1W liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - btcusd
+- Poi - 4h poi opposite to 4h 1st poi
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - btcusd
+- Poi - 4h poi + 1D liquidity - opposite to - 4h poi opposite to 4h 1st poi
+- Confirmation type - 15m iss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - 
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 
 - Execution - 
 - Explanation - 
-
-

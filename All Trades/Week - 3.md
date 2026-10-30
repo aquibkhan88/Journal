@@ -249,7 +249,7 @@
 - Explanation - mera sl laga kyu ki jaha tak jana tha wo me analysis me nahi laya
 
 
-**Trade 1 -** 
+**Trade 27 -** 
 - Pair - btcusd
 - Poi - 4h 1st poi opposite to 1W liquidity
 - Confirmation type - 15m mss, iss
@@ -258,7 +258,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 28 -** 
 - Pair - btcusd
 - Poi - 4h poi opposite to 4h 1st poi
 - Confirmation type - 15m sss
@@ -267,7 +267,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 29 -** 
 - Pair - btcusd
 - Poi - 4h poi + 1D liquidity - opposite to - 4h poi opposite to 4h 1st poi
 - Confirmation type - 15m iss
@@ -276,7 +276,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 30 -** 
 - Pair - gbpjpy
 - Poi - 1D poi + 1D liquidity
 - Confirmation type - 15m mss, iss, sss
@@ -285,7 +285,7 @@
 - Explanation - sl trail kar diya tha to cost to cost ho gaya
 
 
-**Trade 1 -** 
+**Trade 31 -** 
 - Pair - gbpjpy
 - Poi - 1D liquidity
 - Confirmation type - 15m mss
@@ -294,7 +294,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 32 -** 
 - Pair - gbpjpy
 - Poi - 1D poi + 1D liquidity
 - Confirmation type - 15m mss, sss
@@ -303,7 +303,7 @@
 - Explanation - bohot badi candles ne cross kiya tha
 
 
-**Trade 1 -** 
+**Trade 33 -** 
 - Pair - nasdaq
 - Poi - 1D poi + 1W liquidity
 - Confirmation type - 15m mss
@@ -312,7 +312,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 34 -** 
 - Pair - usoil
 - Poi - 1D poi + 1D liquidity
 - Confirmation type - 15m sss
@@ -321,7 +321,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 35 -** 
 - Pair - usoil
 - Poi - 4h continuation poi + 1D liquidity
 - Confirmation type - 15m sss
@@ -330,7 +330,7 @@
 - Explanation - 
 
 
-**Trade 1 -** 
+**Trade 36 -** 
 - Pair - xauusd
 - Poi - 4h 1st poi opposite to 1M liquidity
 - Confirmation type - 15m sss
@@ -340,7 +340,7 @@
 
 
 
-**Trade 1 -** 
+**Trade 37 -** 
 - Pair - dxy
 - Poi - 1W liquidity + 1D liquidity + 1D poi
 - Confirmation type - 15m mss, iss
@@ -349,7 +349,7 @@
 - Explanation - market gap tha thoda bada sa waha se reverse hui
 
 
-**Trade 1 -** 
+**Trade 38 -** 
 - Pair - eurusd
 - Poi - 1W liquidity
 - Confirmation type - 15m iss, mss
@@ -359,10 +359,28 @@
 
 
 
-**Trade 1 -** 
+**Trade 39 -** 
 - Pair - audusd
 - Poi - 1D liquidity
 - Confirmation type - 15m iss
 - Fail or Work - fail
+- Execution - yes (paper)
+- Explanation - iss ke thode uppar hi mss tha waha wick de diya tha, fir 1h ke bohot poi the unme hi ghumta raha
+
+
+**Trade 40 -** 
+- Pair - audjpy
+- Poi - 1W liquidity + 1D liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+
+**Trade 41 -** 
+- Pair - 
+- Poi - 
+- Confirmation type - 
+- Fail or Work - 
 - Execution - 
 - Explanation - 

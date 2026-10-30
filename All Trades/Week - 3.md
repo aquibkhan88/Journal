@@ -351,8 +351,18 @@
 
 **Trade 1 -** 
 - Pair - eurusd
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
+- Poi - 1W liquidity
+- Confirmation type - 15m iss, mss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+
+**Trade 1 -** 
+- Pair - audusd
+- Poi - 1D liquidity
+- Confirmation type - 15m iss
+- Fail or Work - fail
 - Execution - 
 - Explanation - 

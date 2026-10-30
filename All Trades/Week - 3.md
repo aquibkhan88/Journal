@@ -277,7 +277,34 @@
 
 
 **Trade 1 -** 
-- Pair - 
+- Pair - gbpjpy
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m mss, iss, sss
+- Fail or Work - work
+- Execution - yes
+- Explanation - sl trail kar diya tha to cost to cost ho gaya
+
+
+**Trade 1 -** 
+- Pair - gbpjpy
+- Poi - 1D liquidity
+- Confirmation type - 15m mss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - gbpjpy
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m mss, sss
+- Fail or Work - fail
+- Execution - no
+- Explanation - bohot badi candles ne cross kiya tha
+
+
+**Trade 1 -** 
+- Pair - nasdaq
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 

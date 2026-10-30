@@ -313,7 +313,35 @@
 
 
 **Trade 1 -** 
-- Pair - 
+- Pair - usoil
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m sss
+- Fail or Work - Work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - usoil
+- Poi - 4h continuation poi + 1D liquidity
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - xauusd
+- Poi - 4h 1st poi opposite to 1M liquidity
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Execution - yes (paper)
+- Explanation - 
+
+
+
+**Trade 1 -** 
+- Pair - dxy
 - Poi - 
 - Confirmation type - 
 - Fail or Work - 

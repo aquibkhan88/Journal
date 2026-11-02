@@ -82,6 +82,26 @@
 
 
 **Trade 1 -** 
+- Pair - eurusd
+- Poi - 1D poi
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Capable of Entry - no
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - eurusd
+- Poi - 1st 4h poi
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Capable of Entry - yes
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

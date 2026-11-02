@@ -53,6 +53,16 @@
 
 
 **Trade 1 -** 
+- Pair - dxy
+- Poi - 1D poi
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Capable of Entry - no
+- Execution - no
+- Explanation - suru me supportive theory follow kar raha tha fir new 1h poi bana to follow nahi kar raha tha, is liye breakeven ya thoda sa loss hota
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

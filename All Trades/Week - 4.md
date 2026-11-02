@@ -23,10 +23,10 @@
 
 
 **Trade 1 -** 
-- Pair - 
-- Poi - 
-- Confirmation type - 
-- Fail or Work - 
-- Capable of Entry - 
+- Pair - gbpjpy
+- Poi - 1D poi + 1D liquidity
+- Confirmation type - 15m sss
+- Fail or Work - work
+- Capable of Entry - no
 - Execution - 
 - Explanation - 

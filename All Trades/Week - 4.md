@@ -3,6 +3,26 @@
 
 
 **Trade 1 -** 
+- Pair - cadchf
+- Poi - 1D liquidity
+- Confirmation type - 15m mss, iss
+- Fail or Work - work
+- Capable of Entry - yes
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - cadchf
+- Poi - 1h poi
+- Confirmation type - 15m iss
+- Fail or Work - work
+- Capable of Entry - yes
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

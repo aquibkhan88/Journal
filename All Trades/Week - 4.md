@@ -63,6 +63,25 @@
 
 
 **Trade 1 -** 
+- Pair - dxy
+- Poi - 1h poi
+- Confirmation type - 5m sss, 15m sss
+- Fail or Work - Work
+- Capable of Entry - 5m sss - yes, 15m sss - no
+- Execution - no
+- Explanation - 
+
+**Trade 1 -** 
+- Pair - gbpusd
+- Poi - 1D poi + 1W liquidity
+- Confirmation type - 15m iss
+- Fail or Work - work
+- Capable of Entry - no
+- Execution - no
+- Explanation - support theory ko follow karta tha, lekin supportive poi par confirmation nahi kiya is liye agar entry leta to sl lag jata
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

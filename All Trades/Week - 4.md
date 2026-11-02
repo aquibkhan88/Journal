@@ -122,6 +122,26 @@
 
 
 **Trade 1 -** 
+- Pair - audjpy
+- Poi - 1D poi
+- Confirmation type - 15m mss
+- Fail or Work - work
+- Capable of Entry -yes
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
+- Pair - ger40
+- Poi - 1D poi
+- Confirmation type - 15m iss, sss
+- Fail or Work - work
+- Capable of Entry - no
+- Execution - No
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

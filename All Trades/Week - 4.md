@@ -43,6 +43,16 @@
 
 
 **Trade 1 -** 
+- Pair - usoil
+- Poi - 1W liquidity
+- Confirmation type - 15m mss
+- Fail or Work - work
+- Capable of Entry - yes
+- Execution - no
+- Explanation - 
+
+
+**Trade 1 -** 
 - Pair - 
 - Poi - 
 - Confirmation type - 

@@ -28,5 +28,25 @@
 - Confirmation type - 15m sss
 - Fail or Work - work
 - Capable of Entry - no
+- Execution - no
+- Explanation - suru me supportive theory ko follow kiya is liye entey banti thi, fir naya 1h poi ban gaya, jaha supportive theory follow nahi hoti, is liye break even ho jata ya thoda sa loss hota
+
+
+**Trade 1 -** 
+- Pair - gbpjpy
+- Poi - 1h poi
+- Confirmation type - 15m sss, 
+- Fail or Work - work
+- Capable of Entry - yes
+- Execution - no
+- Explanation - supportive theory ko follow karta tha is liye entry banti thi
+
+
+**Trade 1 -** 
+- Pair - 
+- Poi - 
+- Confirmation type - 
+- Fail or Work - 
+- Capable of Entry - 
 - Execution - 
 - Explanation - 
